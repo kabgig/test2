@@ -4,5 +4,7 @@ public class Main {
         System.out.println(s.maxNuts());
         Squirrel s2 = new Squirrel(new int[] {1, -2, 3, 1, -1, -4, 2, 3});
         System.out.println(s2.maxNuts());
+        Squirrel s3 = new Squirrel(new int[] {1, -2});
+        System.out.println(s3.maxNuts());
     }
 }
