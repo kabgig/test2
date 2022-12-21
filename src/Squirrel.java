@@ -26,10 +26,10 @@ public class Squirrel {
         }
         return maxNutsAmount;
     }
-
-    public int getNuts(int index) {
-        return nuts[index];
-    }
+//
+//    public int getNuts(int index) {
+//        return nuts[index];
+//    }
 }
 
 
